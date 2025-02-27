@@ -1,6 +1,6 @@
 **Brain Network Analysis in Schizophrenia Patients**
 
-In this project I tried to explore brain connectivity patterns in schizophrenia patients using functional MRI (Fmri) data from COBRE dataset. The main goal of this project is building a brain networks, analyse how different regions of the brain communicate and what is difference between brain networks of healthy patients and schizophrenia patients.  By comparing this network, I trying to identify patterns link to schizophrenia.
+In this project, I tried to explore brain connectivity patterns in schizophrenia patients using functional MRI (Fmri) data from COBRE dataset. The main goal of this project is building a brain networks, analyse how different regions of the brain communicate and what is difference between brain networks of healthy patients and schizophrenia patients.  By comparing this network, I trying to identify patterns link to schizophrenia.
 
 **Dataset**:
 I have used *COBRE preprocessed with NIAK 0.17 - lightweight release*. It includes preprocessed resting-state functional magnetic resonance images for 72 patients diagnosed with schizophrenia (58 males, age range = 18-65 yrs) and 74 healthy controls (51 males, age range = 18-65 yrs).  [1]
@@ -40,7 +40,9 @@ Applying deep learning
 
 References:
 Bellec, Pierre; Bellec, Pierre (2016). COBRE preprocessed with NIAK 0.17 - lightweight release. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4197885.v1
+
 https://nilearn.github.io/dev/index.html
+
 https://networkx.org/documentation/stable/tutorial.html
 
 
