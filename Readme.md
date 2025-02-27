@@ -1,4 +1,5 @@
 **Brain Network Analysis in Schizophrenia Patients**
+
 In this project I tried to explore brain connectivity patterns in schizophrenia patients using functional MRI (Fmri) data from COBRE dataset. The main goal of this project is building a brain networks, analyse how different regions of the brain communicate and what is difference between brain networks of healthy patients and schizophrenia patients.  By comparing this network, I trying to identify patterns link to schizophrenia.
 
 **Dataset**:
